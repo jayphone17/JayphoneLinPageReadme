@@ -4,5 +4,5 @@
 📕: Focusing on CV & DL & Pytorch
 🔨: Been busy with Auto-Encoder, TransferLearning, Multi-Model-Ensemble
 🧱: Transformer about to INTRO
-🏫: SZU
+🏫: SZU Research Institute for Future Media Computing
 ```
