@@ -48,7 +48,7 @@
   <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14651634318587_.pic.jpg" />   
 </p>
 
-<p>Above are the last 3 pictures posted on 
+<p>Above are the last 8 pictures posted on 
   <a href="https://www.instagram.com/azhewozhendetule728/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @jayphone!
   </a>
