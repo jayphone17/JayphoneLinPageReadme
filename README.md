@@ -27,7 +27,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
 </p>
-### I am Digging it:
+
+### I AM DIGGING IT:
 <p>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Polaroid_Originals_logo.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
