@@ -1,8 +1,10 @@
 ### About Me 👋
 ```
 📕: Focusing on CV & DL & Pytorch
-🔨: Been busy with Auto-Encoder, TransferLearning, Multi-Model-Ensemble
-🧱: Transformer about to INTRO
+📀: Object Detection about to INTRO
+💿: Image Segmentation about to INTRO
+🔨: Transformer about to INTRO
+🔬: Self-Attention Mechanism
 🏫: Study in Research Institute for Future Media Computing, SZU
 ```
 
