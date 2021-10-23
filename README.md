@@ -6,6 +6,7 @@
 🔨: Transformer about to INTRO
 🔬: Self-Attention Mechanism
 🏫: Study in Research Institute for Future Media Computing, SZU
+🃏: 自闭中
 ```
 
 ### Status and Languages:
