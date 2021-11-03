@@ -45,9 +45,9 @@
   <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14631634318587_.pic.jpg" /> 
   <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14641634318587_.pic.jpg" /> 
   </br>
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14661634318587_.pic.jpg" /> 
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14611634318586_.pic.jpg" /> 
+  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14661634318587_.pic.jpg" />
   <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14671634318588_.pic.jpg" /> 
+  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14611634318586_.pic.jpg" /> 
   <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14651634318587_.pic.jpg" />   
 </p>
 
