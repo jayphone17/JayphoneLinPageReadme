@@ -1,10 +1,10 @@
 ### About Me 👋
 ```
 📕: Focusing on CV & DL & Pytorch
-📀: Object Detection about to INTRO
+📀: Object Detection Elevating
 💿: Image Segmentation about to INTRO
-🔨: Transformer about to INTRO
-🔬: Self-Attention Mechanism
+🔨: Digging ViT & BERT & Self-Attention Mechanism & DETR
+🔬: Been busy with Fire and Smoke Detection and Small target Detection (Lack of Dataset yet)
 🏫: Study in Research Institute for Future Media Computing, SZU
 🃏: 自闭中
 ```
