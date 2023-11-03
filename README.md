@@ -1,10 +1,7 @@
 ### About Me 👋
 ```
-📕: Focusing on CV & DL & Pytorch
-📀: Object Detection Elevating
-💿: Image Segmentation about to INTRO
-🔨: Digging ViT & BERT & Self-Attention Mechanism & DETR
-🔬: Been busy with Fire and Smoke Detection and Small target Detection (Lack of Dataset yet)
+📀: Object Detection
+🔬: Been busy with Smoke Detection and Small target Detection (Lack of Dataset yet)
 🏫: Study in Research Institute for Future Media Computing, SZU
 🃏: 自闭中
 ```
@@ -19,41 +16,6 @@
 ### Devs and Tools:
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
 </p>
-
-### I AM DIGGING IT:
-<p>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Polaroid_Originals_logo.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Marvel_Studios_logo.svg"></code>
-</p>
-
-### Where I live and Study:
-<p>
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14621634318587_.pic.jpg" /> 
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14601634318586_.pic.jpg" /> 
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14631634318587_.pic.jpg" /> 
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14641634318587_.pic.jpg" /> 
-  </br>
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14661634318587_.pic.jpg" />
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14671634318588_.pic.jpg" /> 
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14611634318586_.pic.jpg" /> 
-  <img width="200" src="https://github.com/jayphone17/jayphone17/blob/main/photo/14651634318587_.pic.jpg" />   
-</p>
-
-<p>Above are the last 8 pictures posted on 
-  <a href="https://www.instagram.com/azhewozhendetule728/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @jayphone!
-  </a>
-</P>
 
